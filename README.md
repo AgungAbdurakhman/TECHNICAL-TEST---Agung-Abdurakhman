@@ -6,5 +6,5 @@
 - Pytest
 
 ## Run 
-- Open PlayWirght
+- Open PlayWright
 - Run Test.py

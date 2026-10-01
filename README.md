@@ -1,6 +1,7 @@
 # Technical Test
 
 ## Technology
+- Visual Studio Code
 - Python
 - Playwright
 - Pytest
